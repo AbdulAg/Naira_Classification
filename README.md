@@ -22,5 +22,7 @@ Access the deployed app via [abdulrahmanabdullahi/Naira_Note_Classifier] for rea
 # Results
 Achieved 91% accuracy with MobileNetV3, optimized for efficiency. The deployed app supports real-time classification, handling diverse image conditions.
 
-License
-Arewa Data Science Academy
+**Sponsored by:**    
+Arewa Data Science Academy,  
+Deep Learning with PyTorch Fellowship,  
+Cohort 2.0  
