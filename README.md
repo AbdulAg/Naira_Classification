@@ -25,4 +25,4 @@ Achieved 91% accuracy with MobileNetV3, optimized for efficiency. The deployed a
 **Sponsored by:**    
 Arewa Data Science Academy,  
 Deep Learning with PyTorch Fellowship,  
-Cohort 2.0  
+Cohort 2.0. 
